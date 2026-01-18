@@ -1,4 +1,4 @@
-# Jet Rush Controller - Điều khiển trò chơi Jet Rush bằng cử chỉ tay (AI-GENERATED PPROJECT!)
+# Jet Rush Controller - Điều khiển trò chơi Jet Rush bằng cử chỉ tay (AI-GENERATED PROJECT!)
 
 ## Giới thiệu
 
@@ -100,4 +100,5 @@ VX7-GAMEIT/
 
 4. **Tinh chỉnh**:
    - Nếu độ nhạy không vừa ý, điều chỉnh `DEADZONE` trong `config.py`
+
    - Nếu chuyển động bị lag, điều chỉnh `SMOOTHING` trong `config.py`
